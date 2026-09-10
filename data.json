@@ -77,14 +77,14 @@
   "home_name": "Luckleopard Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": null,
-  "secondary_background": null,
-  "button_background": null,
-  "button_text_color": null,
-  "text_color": null,
-  "color_highlight_text": null,
-  "color_main_btn_text": null,
-  "cta_background": null,
+  "main_background": "#0D141C",
+  "secondary_background": "#18202A",
+  "button_background": "#FF5F06",
+  "button_text_color": "#FFFFFF",
+  "text_color": "#FFFFFF",
+  "color_highlight_text": "#FFFFFF",
+  "color_main_btn_text": "#FFFFFF",
+  "cta_background": "#FF5F06",
   "logo": {
     "url": "/uploads/ad175078abf0b5f56d38cebeff8adda4.svg",
     "alt": "luckleopard logo"
@@ -266,9 +266,9 @@
       "question": "How do I claim the Luckleopard Casino welcome bonus?"
     }
   ],
-  "_generated_at": "2026-09-10T10:45:14.951Z",
+  "_generated_at": "2026-09-10T10:46:59.494Z",
   "_version": "1.0.0",
   "content_alt": "luckleopard register",
-  "_last_deploy": "2026-09-10T10:45:15.539Z",
-  "_deploy_trigger": "y756fa"
+  "_last_deploy": "2026-09-10T10:47:00.069Z",
+  "_deploy_trigger": "j19v1d"
 }
