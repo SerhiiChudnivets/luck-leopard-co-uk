@@ -1,7 +1,7 @@
 {
   "name": "luck-leopard.co.uk",
   "site_name": "Luckleopard Casino UK – Official Guide, Bonuses & Games",
-  "html_head": "",
+  "html_head": "<link rel=\"canonical\" href=\"https://luck-leopard.co.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://luck-leopard.co.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://luck-leopard.co.uk/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Luckleopard Casino UK – Official Guide, Bonuses & Games\">\n<meta property=\"og:description\" content=\"Welcome to Luckleopard Casino. Check out our best welcome bonuses, mobile app, and over 10,000 of the best online casino games.\">\n<meta property=\"og:url\" content=\"luck-leopard.co.uk\">\n<meta property=\"og:site_name\" content=\"Luckleopard Casino\">\n<meta property=\"og:image\" content=\"https://luck-leopard.co.uk//uploads/ee4636e3f78beea4626fe05daf0f8ce4.webp\">",
   "url": "luck-leopard.co.uk",
   "template": "tupchiy",
   "language_code": "en",
@@ -266,9 +266,10 @@
       "question": "How do I claim the Luckleopard Casino welcome bonus?"
     }
   ],
-  "_generated_at": "2026-09-10T10:46:59.494Z",
+  "_generated_at": "2026-09-10T10:50:21.344Z",
   "_version": "1.0.0",
+  "html_head_alt": "luckleopard baner",
   "content_alt": "luckleopard register",
-  "_last_deploy": "2026-09-10T10:47:00.069Z",
-  "_deploy_trigger": "j19v1d"
+  "_last_deploy": "2026-09-10T10:50:21.903Z",
+  "_deploy_trigger": "atfv3a"
 }
