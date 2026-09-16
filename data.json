@@ -75,22 +75,22 @@
         {
           "link": "/play/",
           "logo": "/uploads/85f7c06258af2a32384294eadea85dd1.webp",
-          "name": "Welcome Bonus",
-          "Name": "Welcome Bonus",
+          "name": "Welcome Bonus 250% up to £10,000",
+          "Name": "Welcome Bonus 250% up to £10,000",
           "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/c5741637ac2c319b7953cf7b8b4d8a3d.webp",
-          "name": "Sport Bonus",
-          "Name": "Sport Bonus",
+          "name": "Reload Bonus 50% deposit up to £100",
+          "Name": "Reload Bonus 50% deposit up to £100",
           "logo_alt": "Sport Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/31e155d59b7f6d26be4378dfddcb19ab.webp",
-          "name": "Weekly Bonus",
-          "Name": "Weekly Bonus",
+          "name": "Crypto Bonus 150% up to 1 BTC & 150 FS",
+          "Name": "Crypto Bonus 150% up to 1 BTC & 150 FS",
           "logo_alt": "Weekly Bonus"
         }
       ],
@@ -331,22 +331,22 @@
     {
       "link": "/play/",
       "logo": "/uploads/85f7c06258af2a32384294eadea85dd1.webp",
-      "name": "Welcome Bonus",
-      "Name": "Welcome Bonus",
+      "name": "Welcome Bonus 250% up to £10,000",
+      "Name": "Welcome Bonus 250% up to £10,000",
       "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/c5741637ac2c319b7953cf7b8b4d8a3d.webp",
-      "name": "Sport Bonus",
-      "Name": "Sport Bonus",
+      "name": "Reload Bonus 50% deposit up to £100",
+      "Name": "Reload Bonus 50% deposit up to £100",
       "logo_alt": "Sport Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/31e155d59b7f6d26be4378dfddcb19ab.webp",
-      "name": "Weekly Bonus",
-      "Name": "Weekly Bonus",
+      "name": "Crypto Bonus 150% up to 1 BTC & 150 FS",
+      "Name": "Crypto Bonus 150% up to 1 BTC & 150 FS",
       "logo_alt": "Weekly Bonus"
     }
   ],
@@ -373,10 +373,10 @@
       "question": "How do I claim the Luckleopard Casino welcome bonus?"
     }
   ],
-  "_generated_at": "2026-09-10T10:54:54.699Z",
+  "_generated_at": "2026-09-16T10:06:08.698Z",
   "_version": "1.0.0",
   "html_head_alt": "luckleopard baner",
   "content_alt": "luckleopard register",
-  "_last_deploy": "2026-09-10T10:54:55.248Z",
-  "_deploy_trigger": "we60v"
+  "_last_deploy": "2026-09-16T10:06:09.362Z",
+  "_deploy_trigger": "9unf7b"
 }
